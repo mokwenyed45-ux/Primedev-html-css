@@ -1,0 +1,353 @@
+.header_1{
+    font-weight: lighter;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 25px;
+    letter-spacing: 7.5px;
+    text-align: center;
+    margin-top: 60px;
+}
+.header_2{
+    font-family: "playfair display", serif;
+    font-weight: bolder;
+    font-size: 116px;
+    text-align: center;
+    margin-top: 15px;
+    letter-spacing: 1px;
+}
+.navbar{
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    margin-top: -60px;
+    
+    
+}
+
+.nav-list{
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    align-content: center;
+    margin:0 auto;
+    padding: 0 40px;
+
+}
+
+.nav-list li {
+    border-right:1px solid black ;
+    padding:15px 70px ;
+    margin-left: 3px;
+    
+    
+    
+    
+}
+
+.nav-list a {
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+
+}
+.nav-list li a img {
+    height: 20px;
+    display:flex ;
+    justify-content: center;
+    padding-left: 2px;
+
+}
+
+.social-m{
+    display: flex;
+    gap: 10px;
+    
+    
+}
+
+.nav-list li:first-child {
+    border-left: 1px solid black;
+    padding:12px 35px ;
+}
+
+.nav-list li :hover{
+    color: blue;
+}
+
+.post-container{
+    width: 90%;
+    max-width: 1000px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 45px;
+    margin-left: 140px;
+    height: 100%;
+    
+    
+    
+    
+}
+
+.image-item{
+    position: relative;
+    background-image: url(images/book-hand.webp);
+    background-size: cover;
+    background-position: center;
+    width: 960px;
+    height: 411px;
+    display: flex;
+    align-items: start;
+    margin-bottom: 20px;
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    margin-top: 60px;
+    
+    
+    
+}
+ .image_text{
+    padding: 20px 30px;
+    margin: 30px;
+    border: 1px solid black;
+    background-color: rgba(255,255,255,1.0);
+    max-width: 400px;
+    position: relative;
+    bottom: 55px;
+    right:31px ;
+    letter-spacing: 9px;
+}
+
+
+
+.bottom{
+    
+    height: 250px;
+    margin-top: -20px;
+    width: 960px;
+    border-left:1px solid black ;
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+    height: 300px;
+}
+
+.bottom-text2{
+    margin-top: 30px;
+    margin-left: 25px;
+    margin-bottom: 25px;
+}
+
+.bottom-text2 a {
+    text-decoration: none;
+    color: black;
+
+}
+
+.bottom-text2 a:hover{
+       color: blue;
+}
+.bottom-text2 a h1{
+    font-family:"playfair display", serif;
+    
+}
+.bottom-text2 a h3{
+    font-weight: lighter;
+    
+}
+
+.bottom-text1{
+    display: flex;
+    flex-direction: column;
+    margin: 35px 30px 10px;
+    font-size: 12px;
+    font-family: sans-serif;
+    font-weight: 400;
+    box-sizing: border-box;
+    
+    
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
