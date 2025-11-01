@@ -196,6 +196,7 @@
     padding: 15px;
     width: 250px;
     margin-right: 30px;
+    
 
     
 }
@@ -232,6 +233,7 @@
 .email-h{
     position: relative;
     bottom: 10px;
+    opacity: 0.6;
 }
 
 .notification-item2 input[type="email"]:focus {
@@ -347,7 +349,7 @@
 .post-container2{
     border-right: 1px solid black;
         
-    height: 700vh;
+    height: 600vh;
 
 }
 
@@ -418,13 +420,232 @@
     line-height: 27.2px;
     height: 217.583px;
     width: 250px;
-    text-align: ;   
+    font-family: sans-serif;
+    font-weight: lighter;
+    
 
 }
 
 .about-text{
     margin-top: 50px;
 }
+
+
+.read-more{
+    margin-top: 37px;
+
+}
+
+.read-more a{
+    text-decoration: none;
+
+}
+
+.read-more a span{
+    color: black;
+    font-size: 17px;
+    font-weight: lighter;
+    font-family: sans-serif;
+    opacity: 0.6;
+}
+
+.read-more a span:hover{
+    color: blue;
+    cursor: pointer;
+}
+
+
+.follow h4{
+        font-size: 22px;
+    letter-spacing: 8.8px;
+    font-family: sans-serif;
+    font-weight: 400;
+    margin-top: 40px;
+}
+
+.follow{
+    border-top:1px solid black ;
+    margin-top: 60px;
+}
+
+.follow-container{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+    margin-top: 50px;
+}
+
+.follow-img{
+    overflow: hidden;
+    border-radius: 8px;
+    position: relative;
+    cursor: pointer;
+
+}
+.follow-img img{
+    object-fit: cover;
+    display: block;
+    width: 150px;
+    height: 150px;
+    transition: transform 0.4s ease;
+}
+
+.follow-img:hover img{
+    transform: scale(1.1);
+}
+
+.follow-img .overlay{
+    position: absolute;
+    inset: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    display: flex;
+    align-items:center ;
+    justify-content: center;
+    flex-direction: column;
+    opacity: 0;
+    font-size: 14px;
+    transition: opacity 0.4s ease;
+    gap: 20px;
+}
+
+.follow-img:hover .overlay{
+    opacity: 1;
+}
+
+.follow-img .overlay p{
+    margin: 0;
+    line-height: 1.1px;
+}
+
+
+.socials-right{
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    margin-top: 15  px;
+
+}
+
+.social-r{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    list-style: none;
+    
+
+}
+.social-r img{
+    height: 25px;
+}
+
+.subcribe-right h4{
+         font-size: 22px;
+    letter-spacing: 8.8px;
+    font-family: sans-serif;
+    font-weight: 400;
+    margin-top: 35px;
+}
+
+.form-right{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.form-right input[type="email"] {
+    
+    padding: 10px;
+    width: 250px;
+    margin-right: 30px;
+
+}
+
+.email2:focus{
+    outline: none;
+}
+.email2:hover{
+    border: 1px solid blue;
+    outline: none;
+}
+
+.submit1{
+    padding: 11px;
+    width: 280px;
+    font-size: 16px;
+    color: white;
+    background-color: blue;
+    border: none;
+    border-radius: 2px;
+}
+.checkbox2{
+    cursor: pointer;
+}
+
+.submit1:hover{
+    background-color: black;
+    cursor: pointer;
+}
+
+.email-h2{
+    opacity: 0.6;
+
+}
+
+.form-rightcontainer{
+    margin-top: 70px;
+}
+
+
+.pick-container h4{
+           font-size: 22px;
+    letter-spacing: 8.8px;
+    font-family: sans-serif;
+    font-weight: 400;
+    text-transform: uppercase;
+
+
+}
+
+.pick-container img{
+       width: 284.667px;
+       height: 200.667;
+       margin-top: 18px;
+       border: 1px solid black;
+       margin-top: 40px;
+
+
+}
+
+.pick-container{
+    border-top: 1px solid black;
+    margin-top: 40px;
+}
+
+.picktop-text{
+    margin-top: 80px;
+}
+.pick-container p{
+    line-height: 27.2px;
+    font-size: 18px;
+    width: 280px;
+    font-family: sans-serif;
+    margin-top: 40px;
+
+}
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
