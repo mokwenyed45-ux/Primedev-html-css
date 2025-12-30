@@ -1202,3 +1202,328 @@ font-family:"Space Grotesk", sans-serif ;
 
 
 }
+
+
+.team-card-1{
+width: 300PX;
+height: 220PX;
+padding-top: 40px;
+padding-right: 35px;
+padding-bottom: 40px;
+padding-left: 35px;
+gap: 10px;
+angle: 0 deg;
+opacity: 1;
+border-radius: 45px;
+border-width: 1px;
+background: #FFFFFF;
+border: 1px solid #191A23;
+box-shadow: 0px 5px 0px 0px #191A23;
+
+}
+
+
+.team-card-1-top{
+    display: flex;
+    gap: 30px;
+}
+
+.team-card-1-top-img img{
+    width: 99px;
+height: 94px;
+angle: 0 deg;
+opacity: 1;
+
+
+}
+
+.team-member-socials a img{
+    width: 29px;
+height: 29px;
+angle: 0 deg;
+opacity: 1;
+position: relative;
+right: 12px;
+bottom: 4px;
+
+}
+
+.team-member-name-con h4{
+    width: 110px;
+height: 26px;
+angle: 0 deg;
+opacity: 1;
+top: 53.82px;
+left: 125.65px;
+font-family: Space Grotesk;
+font-weight: 500;
+font-style: Medium;
+font-size: 17px;
+leading-trim: NONE;
+line-height: 100%;
+letter-spacing: 0%;
+
+
+
+}
+
+.team-member-title p{
+font-family: Space Grotesk;
+font-weight: 400;
+font-style: Regular;
+font-size: 18px;
+leading-trim: NONE;
+line-height: 100%;
+letter-spacing: 0%;
+width: 148px;
+height: 23px;
+angle: 0 deg;
+opacity: 1;
+position: relative;
+bottom: 30px;
+
+
+
+
+}
+
+.team-card-1-top-text{
+    position: relative;
+    top: 29px;
+    right: 12px;
+
+    
+}
+
+.team-braking-line{
+    border: 1px solid black;
+    height: 0px;
+    width: 320px;
+}
+
+.team-card-1-bottom-text p{
+    font-family: Space Grotesk;
+font-weight: 400;
+font-style: Regular;
+font-size: 18px;
+leading-trim: NONE;
+line-height: 100%;
+letter-spacing: 0%;
+width: 317;
+height: 69;
+angle: 0 deg;
+opacity: 1;
+margin-top: 30px;
+
+
+}
+
+.team-card-con{
+    margin-top: 80px;
+    margin-left: 70px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    row-gap: 30px;
+}
+
+.team-member-title-2 p{
+    font-family: Space Grotesk;
+font-weight: 400;
+font-style: Regular;
+font-size: 18px;
+leading-trim: NONE;
+line-height: 100%;
+letter-spacing: 0%;
+width: 194px;
+height: 23px;
+angle: 0 deg;
+opacity: 1;
+position: relative;
+bottom: 30px;
+
+
+}
+
+.team-member-socials-2 a img{
+     width: 29px;
+height: 29px;
+angle: 0 deg;
+opacity: 1;
+position: relative;
+right: 60px;
+bottom: 4px;
+
+
+}
+
+.team-member-name-con-3 h4{
+    width: 141px;
+height: 26px;
+angle: 0 deg;
+opacity: 1;
+top: 53.82px;
+left: 125.65px;
+font-family: Space Grotesk;
+font-weight: 500;
+font-style: Medium;
+font-size: 17px;
+leading-trim: NONE;
+line-height: 100%;
+letter-spacing: 0%;
+
+
+}
+
+.team-member-title-3 p{
+font-family: Space Grotesk;
+font-weight: 400;
+font-style: Regular;
+font-size: 18px;
+leading-trim: NONE;
+line-height: 100%;
+letter-spacing: 0%;
+width: 183px;
+height: 23px;
+angle: 0 deg;
+opacity: 1;
+position: relative;
+bottom: 30px;
+
+
+}
+
+
+.team-member-socials-3 a img{
+      width: 29px;
+height: 29px;
+angle: 0 deg;
+opacity: 1;
+position: relative;
+right: 50px;
+bottom: 4px;
+
+}
+
+.team-member-name-con-4 h4{
+     width: 141px;
+height: 26px;
+angle: 0 deg;
+opacity: 1;
+top: 53.82px;
+left: 125.65px;
+font-family: Space Grotesk;
+font-weight: 500;
+font-style: Medium;
+font-size: 17px;
+leading-trim: NONE;
+line-height: 100%;
+letter-spacing: 0%;
+
+
+}
+
+.team-member-name-con-5 h4{
+      width: 133px;
+height: 26px;
+angle: 0 deg;
+opacity: 1;
+top: 53.82px;
+left: 125.65px;
+font-family: Space Grotesk;
+font-weight: 500;
+font-style: Medium;
+font-size: 17px;
+leading-trim: NONE;
+line-height: 100%;
+letter-spacing: 0%;
+
+}
+
+.team-card-1-bottom-text-6 p{
+     font-family: Space Grotesk;
+font-weight: 400;
+font-style: Regular;
+font-size: 18px;
+leading-trim: NONE;
+line-height: 100%;
+letter-spacing: 0%;
+width: 317px;
+height: 115px;
+angle: 0 deg;
+opacity: 1;
+margin-top: 30px;
+
+
+}
+
+.team-button button{
+    width: 269px;
+height: 68px;
+padding-top: 20px;
+padding-right: 35px;
+padding-bottom: 20px;
+padding-left: 35px;
+gap: 10px;
+angle: 0 deg;
+opacity: 1;
+border-radius: 14px;
+top: 5734px;
+left: 1071px;
+background: #191A23;
+margin-top: 35px;
+float: right;
+font-family: Space Grotesk;
+font-size: 17px;
+font-weight: 400;
+color: #FFFFFF;
+
+
+
+}
+
+.Testimonials-con{
+    display: flex;
+    gap: 40px;
+    margin-top: 200px;
+    margin-left: 79px;
+
+}
+
+.testimonial-con-1{
+width: 255px;
+height: 51px;
+angle: 0 deg;
+opacity: 1;
+gap: 40px;
+padding-right: 7px;
+padding-left: 7px;
+border-radius: 7px;
+background: #B9FF66;
+
+
+}
+
+.testimonial-con-1 h1{
+    text-align: center;
+   position: relative;
+   bottom: 17px;
+   font-family: "Space Grotesk", sans-serif;
+ 
+
+
+}
+
+.testimonial-con-2{
+width: 420px;
+height: 50px;
+opacity: 1;
+
+}
+
+.testimonial-con-2 p{
+    position: relative;
+bottom: 5px;
+font-family:"Space Grotesk", sans-serif ;
+
+} 
