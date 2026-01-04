@@ -932,7 +932,7 @@ color: #B9FF66;
 }
 
 .work-p-con-1{
-width: 320px;
+width: 350px;
 height: 51px;
 angle: 0 deg;
 opacity: 1;
@@ -946,7 +946,7 @@ background: #B9FF66;
 }
 
 .work-p-con-1 h1{
-   text-align: center;
+   
    position: relative;
    bottom: 17px;
    font-family: "Space Grotesk", sans-serif;
@@ -1527,3 +1527,382 @@ bottom: 5px;
 font-family:"Space Grotesk", sans-serif ;
 
 } 
+
+.testimonial-client-container{
+    width: 1050px;
+height: 500px;
+angle: 0 deg;
+opacity: 1;
+border-radius: 45px;
+display: flex;
+background: #191A23;
+flex-direction: column;
+
+
+}
+
+.left-comment-con{
+    position: relative;
+    bottom: 70px;
+}
+
+.left-comment-con img{
+    width: 250px;
+height: 220px;
+angle: 0 deg;
+opacity: 1;
+border-width: 1px;
+background: #191A23;
+
+
+
+
+
+}
+
+.left-comment-con p{
+    font-family: Space Grotesk;
+font-weight: 400;
+font-style: Regular;
+font-size: 18px;
+leading-trim: NONE;
+line-height: 100%;
+letter-spacing: 0%;
+color: #FFFFFF;
+width: 500px;
+overflow: hidden;
+position: relative;
+right: 300px;
+top: 160px;
+
+
+}
+
+.middle-tes img{
+    width: 533px;
+height: 266px;
+angle: 0 deg;
+opacity: 1;
+border-width: 1px;
+
+
+
+
+}
+
+.comment-con{
+    display: flex;
+    
+    
+}
+
+.middle-tes p{
+font-family: Space Grotesk;
+font-weight: 400;
+font-style: Regular;
+font-size: 18px;
+leading-trim: NONE;
+line-height: 100%;
+letter-spacing: 0%;
+color: #FFFFFF;
+position: relative;
+width: 500px;
+top: 190px;
+left: 25px;
+
+
+
+
+
+}
+
+.middle-tes{
+    position: relative;
+    bottom: 90px;
+    right: 230px;
+}
+
+.right-comment-con img{
+width: 225px;
+height: 220px;
+angle: 0 deg;
+opacity: 1;
+border-width: 1px;
+
+
+    
+
+}
+
+.right-comment-con p{
+    font-family: Space Grotesk;
+font-weight: 400;
+font-style: Regular;
+font-size: 18px;
+leading-trim: NONE;
+line-height: 100%;
+letter-spacing: 0%;
+color: #FFFFFF;
+width: 500px;
+overflow: hidden;
+position: relative;
+top: 160px;
+left: 60px;
+
+
+
+}
+
+.right-comment-con{
+    position: relative;
+    bottom: 65px;
+    right: 210px;
+}
+
+.tes-client-info-name h4{
+    font-family: Space Grotesk;
+font-weight: 500;
+font-style: Medium;
+font-size: 20px;
+leading-trim: NONE;
+line-height: 100%;
+letter-spacing: 0%;
+color: #B9FF66;
+}
+
+.tes-client-info-roles p{
+    font-family: Space Grotesk;
+font-weight: 400;
+font-style: Regular;
+font-size: 18px;
+leading-trim: NONE;
+line-height: 100%;
+letter-spacing: 0%;
+color: #FFFFFF;
+
+
+}
+
+.tes-client-info-con{
+    display: flex;
+    gap: 500px;
+        
+}
+
+.tes-client-info-roles{
+     position: relative;
+     bottom: 20px;
+    
+}
+
+
+.tes-client-info-con-1{
+    position: relative;
+    left: 340px;
+    bottom: 120px;
+}
+
+.tes-client-info-con-2{
+    position: relative;
+    overflow: hidden;
+    left: 145px;
+    bottom:120px ;
+}
+
+
+.testimonial-client-container{
+    position: relative;
+    top: 40px;
+    left: 70px;
+
+    
+}
+
+
+.navbar-comments{
+    display: flex;
+    position: relative;
+    left: 300px;
+    bottom: 60px;
+    gap: 150px;
+}
+
+
+.contact-con{
+     display: flex;
+    gap: 40px;
+    margin-top: 100px;
+    margin-left: 79px;
+
+
+}
+
+.contact-con-1{
+width: 180px;
+height: 51px;
+angle: 0 deg;
+opacity: 1;
+gap: 40px;
+padding-right: 7px;
+padding-left: 7px;
+border-radius: 7px;
+background: #B9FF66;
+
+
+}
+
+
+.contact-con-1 h1{
+    position: relative;
+   bottom: 17px;
+   font-family: "Space Grotesk", sans-serif;
+   
+
+
+}
+
+.contact-con-2{
+    width: 285px;
+height: 46px;
+opacity: 1;
+
+}
+
+.contact-con-2 p{
+    position: relative;
+bottom: 5px;
+font-family:"Space Grotesk", sans-serif ;
+
+}
+
+.sign-up-main{
+    display: flex;
+    flex-direction: column  ;
+}
+
+.contact-text-con{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.contact-text-con label{
+    font-family: Space Grotesk;
+font-weight: 400;
+font-style: Regular;
+font-size: 16px;
+leading-trim: NONE;
+line-height: 28px;
+letter-spacing: 0%;
+
+}
+
+.contact-text-con input[type="text"],[type="Email"]{
+width: 350px;
+height: 10px;
+angle: 0 deg;
+opacity: 1;
+border-radius: 14px;
+padding-top: 18px;
+padding-right: 30px;
+padding-bottom: 18px;
+padding-left: 30px;
+gap: 10px;
+border-width: 1px;
+background: #FFFFFF;
+border: 1px solid #000000;
+
+
+
+}
+
+.contact-text-con textarea{
+    width: 350px;
+height: 70px;
+angle: 0 deg;
+opacity: 1;
+border-radius: 14px;
+padding-top: 18px;
+padding-right: 30px;
+padding-bottom: 18px;
+padding-left: 30px;
+gap: 10px;
+border-width: 1px;
+
+}
+
+.button-contact button{
+    width: 410px;
+height: px;
+angle: 0 deg;
+opacity: 1;
+border-radius: 14px;
+padding-top: 20px;
+padding-right: 35px;
+padding-bottom: 20px;
+padding-left: 35px;
+gap: 10px;
+margin-top: 25px;
+background: #191A23;
+color: #FFFFFF;
+
+}
+
+
+.raidio-con label{
+    font-family: Space Grotesk;
+font-weight: 400;
+font-style: Regular;
+font-size: 18px;
+leading-trim: NONE;
+line-height: 100%;
+letter-spacing: 0%;
+
+}
+
+.raidio-con input[type="radio"]{
+    width: 19px;
+height: 19px;
+angle: 0 deg;
+opacity: 1;
+border-radius: 29px;
+left: 131px;
+border-width: 1px;
+accent-color: #B9FF66;
+border: 1px solid #000000;
+
+}
+
+.contact-form-container{
+    display: flex;
+    width: 900px;
+height: 490px;
+angle: 0 deg;
+opacity: 1;
+border-radius: 45px;
+padding-top: 60px;
+padding-right: 100px;
+padding-bottom: 80px;
+padding-left: 100px;
+gap: 10px;
+background: #F3F3F3;
+border: 1px solid #F3F3F3;
+margin-left: 70px;
+margin-top: 40px;
+
+
+}
+
+
+.contact-form-img img{
+    width: 500px;
+height:500px;
+angle: -0 deg;
+opacity: 1;
+top: 62.5px;
+left: 1014.71px;
+margin-left: 310px;
+
+
+}
+
